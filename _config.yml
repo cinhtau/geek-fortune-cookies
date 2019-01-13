@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+logo: /assets/images/avatar.png
+description: Fortune cookies for geeks.
+show_downloads: true
+google_analytics: UA-98721919-2

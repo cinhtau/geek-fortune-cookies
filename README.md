@@ -9,7 +9,7 @@ Fortune cookies for Geeks
 
 ## About fortune
 
-[fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) is a programm from BSD that picks a random message from a database. 
+[fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) is a program from BSD that picks a random message from a database. 
 
 This projects contribution is a database for Geeks.
 
@@ -101,3 +101,68 @@ The database will be named after the sources.
 
 * Programming Wisdom (Twitter Account)
 * I Am Devloper (Twitter Account)
+
+### Data
+
+Find first examples in the fortune directory. In order to use the fortune databases, create a random access file for storing strings with `strfile`.
+
+```bash
+for db in databases/*; do strfile $db;done  
+```
+
+Output
+```text
+"databases/i-am-developer.dat" created
+There was 1 string
+Longest string: 91 bytes
+Shortest string: 91 bytes
+"databases/i-am-developer.dat.dat" created
+There was 1 string
+Longest string: 32 bytes
+Shortest string: 32 bytes
+"databases/programming-wisdom.dat" created
+There were 2 strings
+Longest string: 123 bytes
+Shortest string: 114 bytes
+"databases/programming-wisdom.dat.dat" created
+There was 1 string
+Longest string: 36 bytes
+Shortest string: 36 bytes
+```
+
+### Format
+
+* Each entry starts with `%`
+* Each entry must end with a newline.
+
+### Usage
+
+To use fortune with the databases, we pass the directory.
+
+```bash
+fortune databases
+We build our computers the way we build our cities:
+   over time, without a plan, on top of ruins.
+        -- Ellen Ullman
+```
+
+Use it with `cowsay`
+
+```
+fortune databases | cowsay
+ _________________________________________
+/ We build our computers the way we build \
+| our cities:                             |
+|                                         |
+| over time, without a plan, on top of    |
+| ruins.                                  |
+|                                         |
+\ -- Ellen Ullman                         /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+```

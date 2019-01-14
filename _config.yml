@@ -9,7 +9,7 @@ future: true
 
 # Build settings
 markdown: kramdown
-highlighter: none
+highlighter: rouge
 
 lang: en
 

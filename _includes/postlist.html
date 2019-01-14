@@ -1,0 +1,16 @@
+{%- if site.posts.size > 0 -%}
+<h2>{{ page.list_title | default: "Latest News" }}</h2>
+<p class="view">
+    {%- for post in site.posts -%}
+
+        {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+        <p>{{ post.date | date: date_format }}</span> -
+
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title }}
+            </a>
+       </p>
+
+    {%- endfor -%}
+</ul></p>
+{%- endif -%}

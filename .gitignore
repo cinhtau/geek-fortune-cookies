@@ -5,3 +5,9 @@ _site
 
 # fortune strfile
 *.dat
+
+# sensitive security data
+GH_TOKEN
+
+# apple
+.DS_Store

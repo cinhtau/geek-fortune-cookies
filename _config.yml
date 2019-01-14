@@ -30,7 +30,7 @@ google_analytics: UA-98721919-2
 
 permalink: /:year/:month/:day/:title/
 
-favicon_dir: "https://github.com/cinhtau/geek-fortune-cookies/assets/favicon"
+favicon_dir: "https://cookie.cinhtau.net/assets/favicon"
 
 exclude:
   - Gemfile

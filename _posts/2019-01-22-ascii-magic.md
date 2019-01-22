@@ -181,7 +181,7 @@ $the_cow = <<EOC;
 EOC
 ```
 
-Create a `[pig.cow](../cowsay/pig.cow)` for the Chinese New Year 2019.
+Create a [`pig.cow](https://cookie.cinhtau.net/cowsay/pig.cow) for the Chinese New Year 2019.
 
 ```
 ##
@@ -198,7 +198,7 @@ $the_cow = <<EOC;
 EOC
 ```
 
-[Pig on a fence](../cowsay/pig-fence.cow)
+[Pig on a fence](https://cookie.cinhtau.net/cowsay/pig-fence.cow)
 
 ```
 ##

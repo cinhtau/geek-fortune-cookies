@@ -13,3 +13,34 @@ A programmer was arrested for writing unreadable code.
 "The most important single aspect of software development
     is to be clear about what you are trying to build."
     -- Bjarne Stroustrup
+%
+"A program is like a poem: you cannot write a poem without writing it."
+    -- E.W Dijkstra
+%
+"The best error message is the one that never shows up."
+    -- Thomas Fuchs
+%
+“Every programmer is an author.”
+    -- Sercan Leylek
+%
+"An evolving system increases its complexity unless work is done to reduce it."
+    -- Meir Lehman
+%
+"Theory is when you know something, but it doesn’t work.
+ Practice is when something works, but you don’t know why.
+ Programmers combine theory and practice: Nothing works and they don’t know why."
+    -- Unknown
+%
+"One of the best programming skills you can have is knowing when to walk away for awhile."
+    -- Oscar Godson
+%
+“Any fool can write code that a computer can understand.
+ Good programmers write code that humans can understand.”
+    -- Martin Fowler
+%
+Make sure that the old quote "they muddy the water so that it seems deep"
+doesn't describe your engineering style/codebases.
+    -- Sarah Drasner
+%
+“Before software can be reusable it first has to be usable.”
+    -– Ralph Johnson

@@ -1,0 +1,1 @@
+Image from https://openclipart.org/detail/296525/fortune-cookie

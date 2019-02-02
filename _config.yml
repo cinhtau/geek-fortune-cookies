@@ -1,1 +1,64 @@
 theme: jekyll-theme-minimal
+logo: /assets/images/avatar.png
+description: Fortune cookies for geeks.
+show_downloads: true
+
+author: cinhtau
+date_format: "%F"
+future: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+lang: en
+
+kramdown:
+  toc_levels: 2..6
+
+plugins:
+  - "jekyll-github-metadata"
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-email-protect
+  - jekyll-gist
+  - jemoji
+
+# Google Analytics
+google_analytics: UA-98721919-2
+
+permalink: /:year/:month/:day/:title/
+
+favicon_dir: "https://cookie.cinhtau.net/assets/favicon"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - gulpfile.js
+  - node_modules
+  - drafts
+  - .idea
+  - .sass-cache
+  - geek-fortune-cookies.iml
+  - docs.ipr
+  - confidential
+  - package.json
+  - package-lock.json
+  - vendor
+  - '_assets'
+  - buildspec.yml
+  - yarn.lock
+  - serve.sh
+  - install.sh
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []

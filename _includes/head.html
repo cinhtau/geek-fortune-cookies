@@ -1,0 +1,29 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- open graph -->
+    <meta property="og:image" content="{{ site.favicon_dir }}/og-image.jpg">
+    <meta property="og:image:width" content="256">
+    <meta property="og:image:height" content="256">
+    <meta property="og:title" content="Fortune Cookies for Geeks">
+    <meta property="og:description" content="Random wisdom from popular Twitter accounts about Software Development">
+    <meta property="og:url" content="https://cookie.cinhtau.net">
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.favicon_dir }}/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.favicon_dir }}/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.favicon_dir }}/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.favicon_dir }}/site.webmanifest">
+    <link rel="mask-icon" href="{{ site.favicon_dir }}/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>

@@ -63,7 +63,12 @@ Mac OS
 brew install fortune
 ```
 
-## Content
+## Contribute Content
+
+- Everybody is welcome to contribute. 
+- Fork the repository and create a pull request. 
+- Create an issue if you have possible questions or any issue.
+- Pay attention that the [LICENSE] will remain untouched by contribution.
 
 I have a strict guideline for content.
 

@@ -5,46 +5,67 @@ We build our computers the way we build our cities:
 %
 A programmer was arrested for writing unreadable code.
     He refused to comment.
-		-- Twitter, "Mr. Drinks On Me"
+    -- Twitter, «Mr. Drinks On Me»
 %
-"Good programming is good writing."
+«Good programming is good writing.»
     -- John Shore
 %
-"The most important single aspect of software development
-    is to be clear about what you are trying to build."
+«The most important single aspect of software development
+    is to be clear about what you are trying to build.»
     -- Bjarne Stroustrup
 %
-"A program is like a poem: you cannot write a poem without writing it."
+«A program is like a poem: you cannot write a poem without writing it.»
     -- E.W Dijkstra
 %
-"The best error message is the one that never shows up."
+«The best error message is the one that never shows up.»
     -- Thomas Fuchs
 %
-“Every programmer is an author.”
+«Every programmer is an author.»
     -- Sercan Leylek
 %
-"An evolving system increases its complexity unless work is done to reduce it."
+«An evolving system increases its complexity unless work is done to reduce it.»
     -- Meir Lehman
 %
-"Theory is when you know something, but it doesn’t work.
+«Theory is when you know something, but it doesn’t work.
  Practice is when something works, but you don’t know why.
- Programmers combine theory and practice: Nothing works and they don’t know why."
+ Programmers combine theory and practice: Nothing works and they don’t know why.»
     -- Unknown
 %
-"One of the best programming skills you can have is knowing when to walk away for awhile."
+«One of the best programming skills you can have is knowing when to walk away for awhile.»
     -- Oscar Godson
 %
-“Any fool can write code that a computer can understand.
- Good programmers write code that humans can understand.”
+«Any fool can write code that a computer can understand.
+ Good programmers write code that humans can understand.»
     -- Martin Fowler
 %
-Make sure that the old quote "they muddy the water so that it seems deep"
+Make sure that the old quote «they muddy the water so that it seems deep»
 doesn't describe your engineering style/codebases.
     -- Sarah Drasner
 %
-“Before software can be reusable it first has to be usable.”
+«Before software can be reusable it first has to be usable.»
     -- Ralph Johnson
 %
-“If you can get today’s work done today, but you do it in such a way that you can’t possibly
- get tomorrow’s work done tomorrow, then you lose.”
+«If you can get today’s work done today, but you do it in such a way that you can’t possibly
+ get tomorrow’s work done tomorrow, then you lose.»
     -- Martin Fowler
+%
+«Good code is its own best documentation. As you're about to add a comment, ask yourself,
+ «How can I improve the code so that this comment isn't needed?«
+Improve the code and then document it to make it even clearer.»
+    -- Steve McConnell
+%
+«Be curious. Read widely. Try new things.
+ I think a lot of what people call intelligence boils down to curiosity.»
+    -- Aaron Swartz
+%
+Memory leaks are like water leaks: they happen when you least expect it,
+ take hours to locate and make you wish you had spent more time protecting your valuables.
+    -- Fred Heath
+%
+«In some ways, programming is like painting.
+ You start with a blank canvas and certain basic raw materials.
+ You use a combination of science, art, and craft to determine what to do with them.»
+    -- Pragmatic Programmer
+%
+«There’s a big difference between making a simple product & making a product simple.»
+    -- Des Traynor

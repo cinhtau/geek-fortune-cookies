@@ -95,3 +95,5 @@ fortune -f
 
 * Programming Wisdom (Twitter Account)
 * I Am Devleoper (Twitter Account)
+
+«»

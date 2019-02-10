@@ -77,3 +77,19 @@ Memory leaks are like water leaks: they happen when you least expect it,
  Next develop a programming style.
  Then forget all that and just hack.»
     -- George Carrette
+%
+«Every program has two purposes: The one for which
+it was written and another for which it wasn't.»
+    -- Alan J. Perlis
+%
+«So if you want to go fast, if you want to get done quickly,
+ if you want your code to be easy to write, make it easy to read.»
+    -- Robert C. Martin
+%
+«In the one and only true way. The object-oriented version of 'Spaghetti code' is,
+ of course, 'Lasagna code'. (Too many layers).»
+    -- Roberto Walkman
+%
+«I don’t like the mentality of "to be a great developer you must..."
+ There’s no one path to success. Everyone will have a different journey.»
+    -- Emma Wedekind

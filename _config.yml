@@ -26,7 +26,7 @@ plugins:
   - jemoji
 
 # Google Analytics
-google_analytics: UA-98721919-2
+google_analytics: UA-98721919-5
 
 permalink: /:year/:month/:day/:title/
 

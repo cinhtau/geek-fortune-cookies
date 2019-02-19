@@ -123,3 +123,40 @@ it was written and another for which it wasn't.»
 %
 «Inside every large program, there is a small program trying to get out.»
     -- C. A. R. Hoare
+%
+«Documentation is a love letter that you write to your future self.»
+    -- Damian Conway
+%
+«Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.»
+    -- Harlan Mills
+%
+«Codes are a puzzle. A game, just like any other game.»
+    -- Alan Turing
+%
+“Generally a program should say nothing unless and until it has something to say.»
+   -- Kernighan and Plauger
+%
+«Controlling complexity is the essence of computer programming.»
+   -- Brian Kernighan
+%
+«If you don’t actively attack the risks, the risks will actively attack you.»
+   -- Tom Gilb
+%
+«Write code every day.»
+   -- John Resig
+%
+«Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.»
+   -- Stan Kelly-Bootle
+%
+«Commenting your code is like cleaning your bathroom -
+ you never want to do it, but it really does create a more
+ pleasant experience for you and your guests.»
+   -- Ryan Campbell
+%
+«perfect software doesn't exist. No one in the brief history of
+ computing has ever written a piece of perfect software.»
+   -- The Pragmatic Programmer
+%
+«One of my most productive days was
+ throwing away 1,000 lines of code.»
+   -- Ken Thompson

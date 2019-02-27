@@ -1,0 +1,12 @@
+##
+## A cute little piggy
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   \\
+          _____
+      ^..^     \\9
+      (oo)_____/
+         WW  WW
+
+EOC

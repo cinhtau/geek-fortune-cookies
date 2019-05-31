@@ -23,5 +23,5 @@ elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
         strfile $db
     done
     # -- copy files to fortune database directory
-    cp ./databases/* /usr/share/games/fortunes/
+    cp ./databases/* ~/databases/
 fi

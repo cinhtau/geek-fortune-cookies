@@ -1,4 +1,11 @@
 %
+Focus is a matter of deciding what things you’re not going to do.
+   -- John Carmack
+%
+Make sure that the old quote they muddy the water so that it seems deep
+doesn't describe your engineering style/codebases.
+    -- Sarah Drasner
+%
 We build our computers the way we build our cities:
    over time, without a plan, on top of ruins.
     -- Ellen Ullman
@@ -35,19 +42,19 @@ One of the best programming skills you can have is knowing when to walk away for
     -- Oscar Godson
 %
 Any fool can write code that a computer can understand.
- Good programmers write code that humans can understand.
+Good programmers write code that humans can understand.
     -- Martin Fowler
 %
-Make sure that the old quote they muddy the water so that it seems deep
-doesn't describe your engineering style/codebases.
-    -- Sarah Drasner
+If you can get today’s work done today, but you do it in such a way
+that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+    -- Martin Fowler
+%
+In programming, the hard part isn't solving problems,
+but deciding what problems to solve.
+   -- Paul Graham
 %
 Before software can be reusable it first has to be usable.
     -- Ralph Johnson
-%
-If you can get today’s work done today, but you do it in such a way that you can’t possibly
- get tomorrow’s work done tomorrow, then you lose.
-    -- Martin Fowler
 %
 Good code is its own best documentation. As you're about to add a comment, ask yourself,
  How can I improve the code so that this comment isn't needed?
@@ -162,8 +169,8 @@ In the end, regardless of where you are on the development hierarchy,
  keep coding. It’s where you’re most valuable.
    -- The Developer's Code
 %
-Focus is a matter of deciding what things you’re not going to do.
-   -- John Carmack
+The key to e​fficient development is to 'make interesting new mistakes'.
+   -- Tom Love
 %
 The best way to predict the future is to implement it.
    -- David Heinemeier Hansson
@@ -405,7 +412,3 @@ The only way to learn a new programming language is by writing programs in it.
 A computer is like a mischievous genie.
 It will give you exactly what you ask for, but not always what you want.
    -- Joe Sondow
-%
-In programming, the hard part isn't solving problems,
-but deciding what problems to solve.
-   -- Paul Graham

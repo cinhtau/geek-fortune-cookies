@@ -175,6 +175,9 @@ The key to e​fficient development is to 'make interesting new mistakes'.
 The best way to predict the future is to implement it.
    -- David Heinemeier Hansson
 %
+Java is to JavaScript as ham is to hamster.
+   -- Jeremy Keith, Resilient Web Design
+%
 Programming: when the ideas turn into the real things.
    -- Maciej Kaczmarek
 %
@@ -259,6 +262,9 @@ programmers from making bad programs.
 %
 Programming is the art of doing one thing at a time
    -- Michael Feathers
+%
+If it doesn’t work, it doesn’t matter how fast it doesn't work.
+   -- Mich Ravera
 %
 The happiest moment i've ever felt was that moment
 when i discovered my ability to create.

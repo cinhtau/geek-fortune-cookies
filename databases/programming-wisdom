@@ -1,6 +1,7 @@
 %
-Focus is a matter of deciding what things you’re not going to do.
-   -- John Carmack
+You should not have a favorite weapon. To become over-familiar with one
+weapon is as much a fault as not knowing it sufficiently well.
+   -- Miyamoto Musashi
 %
 Make sure that the old quote they muddy the water so that it seems deep
 doesn't describe your engineering style/codebases.
@@ -90,9 +91,21 @@ Every program has two purposes: The one for which
 it was written and another for which it wasn't.
     -- Alan J. Perlis
 %
+There are two ways to write error-free programs;
+only the third one works.
+    -- Alan J. Perlis
+%
 So if you want to go fast, if you want to get done quickly,
- if you want your code to be easy to write, make it easy to read.
+if you want your code to be easy to write, make it easy to read.
     -- Robert C. Martin
+%
+Leave the campground cleaner than the way you found it.
+   -- Robert C. Martin
+%
+Functions should do one thing.
+They should do it well.
+They should do it only.
+   -- Robert C. Martin
 %
 In the one and only true way. The object-oriented version of 'Spaghetti code' is,
  of course, 'Lasagna code'. (Too many layers).
@@ -101,10 +114,6 @@ In the one and only true way. The object-oriented version of 'Spaghetti code' is
 I don’t like the mentality of "to be a great developer you must..."
  There’s no one path to success. Everyone will have a different journey.
     -- Emma Wedekind
-%
-Every program has two purposes: The one for which it was written
- and another for which it wasn't.
-    -- Alan J. Perlis
 %
 Don’t worry about what anyone else is going to do.
  The best way to predict the future is to invent it.
@@ -133,9 +142,6 @@ Documentation is a love letter that you write to your future self.
 %
 Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
     -- Harlan Mills
-%
-Codes are a puzzle. A game, just like any other game.
-    -- Alan Turing
 %
 “Generally a program should say nothing unless and until it has something to say.
    -- Kernighan and Plauger
@@ -339,6 +345,9 @@ Sometimes, the elegant implementation is just a function.
 Not a method. Not a class. Not a framework. Just a function.
    -- John Carmack
 %
+Focus is a matter of deciding what things you’re not going to do.
+  -- John Carmack
+%
 Much of the essence of building a program
 is in fact the debugging of the specification.
    -- Fred Brooks
@@ -380,9 +389,6 @@ Treat your code like poetry and take it to the edge of the bare minimum.
 Simple doesn't mean stupid.
 Thinking that it does, does.
    -- Paul Krugman
-%
-Leave the campground cleaner than the way you found it.
-   -- Robert C. Martin
 %
 Write shy code - modules that don't reveal anything unnecessary
 to other modules and that don't rely on other modules' implementations.
@@ -428,3 +434,24 @@ Testing leads to failure, and failure leads to understanding.
 %
 Sometimes the problem is to discover what the problem is.
    -- Gordon Glegg
+%
+In carpentry you measure twice and cut once.
+In software development you never measure and
+make cuts until you run out of time.
+   -- Adam Morse
+%
+In theory, there is no difference between theory and practice.
+But, in practice, there is.
+   -- Jan L. A. van de Snepscheut
+%
+The next best thing to having good ideas is
+recognising good ideas from your users.
+Sometimes the latter is better.
+   -- Eric Raymond
+%
+Fold knowledge into data, so program logic can be stupid and robust.
+   -- Eric Raymond
+%
+Don’t worry if it doesn't work right.
+If everything did, you’d be out of a job.
+   -- Mosher’s Law of Software Engineering

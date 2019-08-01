@@ -1,4 +1,12 @@
 %
+You should not have a favorite weapon. To become over-familiar with one
+weapon is as much a fault as not knowing it sufficiently well.
+   -- Miyamoto Musashi
+%
+Make sure that the old quote they muddy the water so that it seems deep
+doesn't describe your engineering style/codebases.
+    -- Sarah Drasner
+%
 We build our computers the way we build our cities:
    over time, without a plan, on top of ruins.
     -- Ellen Ullman
@@ -35,19 +43,19 @@ One of the best programming skills you can have is knowing when to walk away for
     -- Oscar Godson
 %
 Any fool can write code that a computer can understand.
- Good programmers write code that humans can understand.
+Good programmers write code that humans can understand.
     -- Martin Fowler
 %
-Make sure that the old quote they muddy the water so that it seems deep
-doesn't describe your engineering style/codebases.
-    -- Sarah Drasner
+If you can get today’s work done today, but you do it in such a way
+that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+    -- Martin Fowler
+%
+In programming, the hard part isn't solving problems,
+but deciding what problems to solve.
+   -- Paul Graham
 %
 Before software can be reusable it first has to be usable.
     -- Ralph Johnson
-%
-If you can get today’s work done today, but you do it in such a way that you can’t possibly
- get tomorrow’s work done tomorrow, then you lose.
-    -- Martin Fowler
 %
 Good code is its own best documentation. As you're about to add a comment, ask yourself,
  How can I improve the code so that this comment isn't needed?
@@ -83,9 +91,21 @@ Every program has two purposes: The one for which
 it was written and another for which it wasn't.
     -- Alan J. Perlis
 %
+There are two ways to write error-free programs;
+only the third one works.
+    -- Alan J. Perlis
+%
 So if you want to go fast, if you want to get done quickly,
- if you want your code to be easy to write, make it easy to read.
+if you want your code to be easy to write, make it easy to read.
     -- Robert C. Martin
+%
+Leave the campground cleaner than the way you found it.
+   -- Robert C. Martin
+%
+Functions should do one thing.
+They should do it well.
+They should do it only.
+   -- Robert C. Martin
 %
 In the one and only true way. The object-oriented version of 'Spaghetti code' is,
  of course, 'Lasagna code'. (Too many layers).
@@ -95,17 +115,9 @@ I don’t like the mentality of "to be a great developer you must..."
  There’s no one path to success. Everyone will have a different journey.
     -- Emma Wedekind
 %
-Every program has two purposes: The one for which it was written
- and another for which it wasn't.
-    -- Alan J. Perlis
-%
 Don’t worry about what anyone else is going to do.
  The best way to predict the future is to invent it.
     -- Alan Kay
-%
-If it's a good idea, go ahead and do it.
- It is much easier to apologize than it is to get permission.
-    -- Grace Hopper
 %
 That brain of mine is something more than merely mortal;
  as time will show.
@@ -130,9 +142,6 @@ Documentation is a love letter that you write to your future self.
 %
 Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
     -- Harlan Mills
-%
-Codes are a puzzle. A game, just like any other game.
-    -- Alan Turing
 %
 “Generally a program should say nothing unless and until it has something to say.
    -- Kernighan and Plauger
@@ -166,11 +175,14 @@ In the end, regardless of where you are on the development hierarchy,
  keep coding. It’s where you’re most valuable.
    -- The Developer's Code
 %
-Focus is a matter of deciding what things you’re not going to do.
-   -- John Carmack
+The key to e​fficient development is to 'make interesting new mistakes'.
+   -- Tom Love
 %
 The best way to predict the future is to implement it.
    -- David Heinemeier Hansson
+%
+Java is to JavaScript as ham is to hamster.
+   -- Jeremy Keith, Resilient Web Design
 %
 Programming: when the ideas turn into the real things.
    -- Maciej Kaczmarek
@@ -201,10 +213,6 @@ And if it doesn’t, it’ll be easy to make it fast.
 %
 So much complexity in software comes from trying to make one thing do two things.
    -- Ryan Singer
-%
-To me programming is more than an important practical art.
-It is also a gigantic undertaking in the foundations of knowledge.
-   -- Grace Hopper
 %
 Without requirements or design, programming is the art of
 adding bugs to an empty text file.
@@ -261,6 +269,9 @@ programmers from making bad programs.
 Programming is the art of doing one thing at a time
    -- Michael Feathers
 %
+If it doesn’t work, it doesn’t matter how fast it doesn't work.
+   -- Mich Ravera
+%
 The happiest moment i've ever felt was that moment
 when i discovered my ability to create.
    -- Dr. Hazem Ali
@@ -271,6 +282,19 @@ continuous learning is what the tech industry thrives on!
 %
 A ship in port is safe, but that is not what ships are for.
 Sail out to sea and do new things.
+   -- Grace Hopper
+%
+People have an enormous tendency to resist change.
+They love to say, 'We've always done it this way.'
+I try to fight that.
+   -- Grace Hopper
+%
+If it's a good idea, go ahead and do it.
+ It is much easier to apologize than it is to get permission.
+    -- Grace Hopper
+%
+To me programming is more than an important practical art.
+It is also a gigantic undertaking in the foundations of knowledge.
    -- Grace Hopper
 %
 Writing software as if we are the only person that ever has to comprehend
@@ -321,6 +345,9 @@ Sometimes, the elegant implementation is just a function.
 Not a method. Not a class. Not a framework. Just a function.
    -- John Carmack
 %
+Focus is a matter of deciding what things you’re not going to do.
+  -- John Carmack
+%
 Much of the essence of building a program
 is in fact the debugging of the specification.
    -- Fred Brooks
@@ -363,9 +390,6 @@ Simple doesn't mean stupid.
 Thinking that it does, does.
    -- Paul Krugman
 %
-Leave the campground cleaner than the way you found it.
-   -- Robert C. Martin
-%
 Write shy code - modules that don't reveal anything unnecessary
 to other modules and that don't rely on other modules' implementations.
    -- Dave Thomas
@@ -401,6 +425,42 @@ A computer is like a mischievous genie.
 It will give you exactly what you ask for, but not always what you want.
    -- Joe Sondow
 %
-In programming, the hard part isn't solving problems,
-but deciding what problems to solve.
-   -- Paul Graham
+Give someone a program, you frustrate them for a day;
+teach them how to program, you frustrate them for a lifetime.
+   -- David Leinweber
+%
+Testing leads to failure, and failure leads to understanding.
+   -- Burt Rutan
+%
+Sometimes the problem is to discover what the problem is.
+   -- Gordon Glegg
+%
+In carpentry you measure twice and cut once.
+In software development you never measure and
+make cuts until you run out of time.
+   -- Adam Morse
+%
+In theory, there is no difference between theory and practice.
+But, in practice, there is.
+   -- Jan L. A. van de Snepscheut
+%
+The next best thing to having good ideas is
+recognising good ideas from your users.
+Sometimes the latter is better.
+   -- Eric Raymond
+%
+Fold knowledge into data, so program logic can be stupid and robust.
+   -- Eric Raymond
+%
+Don’t worry if it doesn't work right.
+If everything did, you’d be out of a job.
+   -- Mosher’s Law of Software Engineering
+%
+The trouble with programmers is that you can never tell
+what a programmer is doing until it’s too late.
+   -- Seymour Cray
+%
+You might not think that programmers are artists,
+but programming is an extremely creative profession.
+Its logic-based creativity.
+   -- John Romero

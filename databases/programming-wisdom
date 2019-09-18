@@ -62,6 +62,10 @@ Good code is its own best documentation. As you're about to add a comment, ask y
 Improve the code and then document it to make it even clearer.
     -- Steve McConnell
 %
+It's hard enough to find an error in your code when you're looking for it;
+it's even harder when you've assumed your code is error-free.
+    -- Steve McConnell
+%
 Be curious. Read widely. Try new things.
  I think a lot of what people call intelligence boils down to curiosity.
     -- Aaron Swartz

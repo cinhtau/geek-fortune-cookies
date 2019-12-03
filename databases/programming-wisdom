@@ -99,6 +99,9 @@ There are two ways to write error-free programs;
 only the third one works.
     -- Alan J. Perlis
 %
+Truth can only be found in one place: the code.
+    -- Robert C. Martin
+%
 So if you want to go fast, if you want to get done quickly,
 if you want your code to be easy to write, make it easy to read.
     -- Robert C. Martin

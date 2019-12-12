@@ -77,7 +77,11 @@ Memory leaks are like water leaks: they happen when you least expect it,
 In some ways, programming is like painting.
  You start with a blank canvas and certain basic raw materials.
  You use a combination of science, art, and craft to determine what to do with them.
-    -- Pragmatic Programmer
+    -- The Pragmatic Programmer
+%
+It's not at all important to get it right the first time. 
+It's vitally important to get it right the last time.
+    -- The Pragmatic Programmer    
 %
 There’s a big difference between making a simple product
 & making a product simple.
